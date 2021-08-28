@@ -15,7 +15,7 @@ export AWS_DEFAULT_REGION="ca-central-1"
 export AWS_SECRET_ACCESS_KEY="A4u2E6mKi6J18f6Gof2AYFX+kgP8yrHOy7H5V3L6" 
 
 To create instance
-1. Type ./deploy.sh create
+1. Type sudo ./deploy.sh create
 
 To destroy instance
-2. Type ./deploy.sh delete
+2. Type sudo ./deploy.sh delete

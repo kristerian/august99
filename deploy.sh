@@ -5,12 +5,12 @@ export AWS_SECRET_ACCESS_KEY="A4u2E6mKi6J18f6Gof2AYFX+kgP8yrHOy7H5V3L6"
 #!/bin/bash
 
 case "$1" in 
-start)
+create)
    terraform init
    terraform apply -auto-approve &
    echo $!>/var/run/hit.pid
    ;;
-stop)
+destroy)
    terraform destroy -auto-approve
    rm /var/run/hit.pid
    ;;

@@ -21,3 +21,5 @@ To create instance
 
 To destroy instance
 2. Type sudo ./deploy.sh delete
+
+3. To access the webserver check output instance_public_ip on your terminal.

@@ -6,6 +6,8 @@ PREREQUISITES
 Refer to the link for download https://www.terraform.io/downloads.html and installation
 
 2. Git 2.33.0 or latest Must be installed.
+3. pull it from https://github.com/kristerian/august99.git
+4. Go to august99 folder. 
 
 NOTE: If you have your own aws Account it is important to change the following AWS_ACCESS_KEY_ID, and AWS_ACCESS_SECRET_ACCESS_KEY inside deploy.sh file so you can see the instance in your own account.
 Change the AWS_ACCESS_DEFAULT_REGION accordingly in terraform.tf file for your preference and AMI_ID

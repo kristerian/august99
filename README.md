@@ -1,10 +1,11 @@
 HOW to run the script.
+
 Make sure that you have terafform installed on the system. 
 Refer to the link for download https://www.terraform.io/downloads.html
 
 
 
-NOTE: If you have your own aws Account it is important to change the following ACCESS_KEY_ID,ACCESS_DEFAULT_REGION and ACCESS_SECRET_ACCESS_KEY
+NOTE: If you have your own aws Account it is important to change the following ACCESS_KEY_ID,ACCESS_DEFAULT_REGION and ACCESS_SECRET_ACCESS_KEY inside deploy.sh file.
 
 AWS_ACCESS_KEY_ID="AKIA2JW3OZSUMLL2CF4M"
 AWS_DEFAULT_REGION="ca-central-1"

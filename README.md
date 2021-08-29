@@ -3,9 +3,13 @@ HOW to run the script.
 PREREQUISITES
 
 1. Make sure that you have terafform 1.0.5 or latest installed on the system. 
-Refer to the link for download https://www.terraform.io/downloads.html and installation
+Refer to the link for download and installation
+https://learn.hashicorp.com/tutorials/terraform/install-cli
 
 2. Git 2.33.0 or latest Must be installed.
+Refer to link below.
+https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
 3. pull it from https://github.com/kristerian/august99.git
 4. Go to august99 folder. 
 
